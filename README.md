@@ -1,4 +1,4 @@
 3form
 =====
 
-Cloud Based 3D printing
+Cloud Based STL setup & slicing
